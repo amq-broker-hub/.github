@@ -4,6 +4,10 @@ Examples and tools related to Red Hat AMQ Broker (Apache Artemis message broker)
 
 This is an open community to collect best practices and lessons learned on different project.
 
+Main repositories:
+
+* link:amq-broker-hub/amq-on-openshift[AMQ Broker on OpenShift]
+
 <!--
 
 **Here are some ideas to get you started:**
