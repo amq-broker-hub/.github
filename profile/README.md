@@ -1,4 +1,8 @@
-## Hi there 👋
+## AMQ Broker Hub
+
+Examples and tools related to Red Hat AMQ Broker (Apache Artemis message broker).
+
+This is an open community to collect best practices and lessons learned on different project.
 
 <!--
 
