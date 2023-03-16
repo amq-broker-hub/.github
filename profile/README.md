@@ -6,7 +6,7 @@ This is an open community to collect best practices and lessons learned on diffe
 
 Main repositories:
 
-* [AMQ Broker on OpenShift](amq-broker-hub/amq-on-openshift)
+* [AMQ Broker on OpenShift](https://github.com/amq-broker-hub/amq-on-openshift)
 
 <!--
 
